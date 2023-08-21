@@ -1,3 +1,8 @@
+<a href="image_full_size_url_here" target="_blank">
+    <img src="https://img.freepik.com/free-photo/online-web-design_53876-95309.jpg?w=740&t=st=1692583899~exp=1692584499~hmac=96bef0be1f7ec6f1d537e79d6ad66105869da9100a1ccb8d9e625db798b89271" alt="Banner" width="900" height="450" >
+</a>
+<!-- ![Banner](https://img.freepik.com/free-photo/online-web-design_53876-95309.jpg?w=740&t=st=1692583899~exp=1692584499~hmac=96bef0be1f7ec6f1d537e79d6ad66105869da9100a1ccb8d9e625db798b89271) -->
+
 <!-- Your Name -->
 <div align="center">
   <h1 style="font-size: 36px; color: #6D84B4;">Hi there! 👋 I'm Rabita Amin</h1>
